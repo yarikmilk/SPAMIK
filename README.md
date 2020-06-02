@@ -9,4 +9,4 @@ Email, SMS spammer
 2. cd SPAMIK
 3. python3 install.py
 4. python3 SPAMIK(T).py
-Profit!
+5. Profit!
